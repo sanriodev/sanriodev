@@ -18,7 +18,7 @@ Hey there! I'm Matteo, a passionate full stack developer hailing from the pictur
 - **Databases**: MongoDB, MariaDB, MySQL, NoSQL
 
 ## Fun Facts 🌟
-
+- 🦆 I have a rubber duck on my desk with a punk outfit. He helps me debug. His name is Lennart
 - 🌐 I have my own coding playlist on spotify.
 - 📚 I'm an avid reader, always on the lookout for the next great tech book or other media.
 
