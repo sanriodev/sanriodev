@@ -14,7 +14,7 @@ Hey there! I'm Matteo, a passionate full stack developer hailing from the pictur
 - **Languages**: TypeScript, JavaScript, Kotlin, Dart, C#, Rust, Ruby, Python
 - **Frontend**: Vue, Angular, Flutter
 - **Backend**: NestJS, .NET, .NET Core
-- **Testing**: Jest, Karme, bun
+- **Testing**: Jest, Karma, bun
 - **Databases**: MongoDB, MariaDB, MySQL, NoSQL
 
 ## Fun Facts 🌟
