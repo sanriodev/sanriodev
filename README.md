@@ -1,5 +1,7 @@
 # Matteo - Full Stack Developer 🚀
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blvckleg&layout=compact)
+
 Hey there! I'm Matteo, a passionate full stack developer hailing from the picturesque landscapes of Austria. 🏞️
 
 ## About Me
@@ -32,3 +34,4 @@ Let's shape the digital world together! 🌍
 
 - 🍺 Prost
 
+[![Matteos GitHub stats](https://github-readme-stats.vercel.app/api?username=blvckleg)](https://github.com/anuraghazra/github-readme-stats)
