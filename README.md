@@ -4,6 +4,9 @@
 
 Hey there! I'm Matteo, a passionate full stack developer hailing from the picturesque landscapes of Austria. 🏞️
 
+You can also find me on GitLab! (I use it quite a lot more >:D )
+
+![image](https://github.com/Blvckleg/Blvckleg/assets/45847997/7bb2dead-9d8c-413e-afe6-1e2aab3c6a10)
 ## About Me
 
 - 🧑‍💻 I'm a tech enthusiast who loves crafting web and mobile applications or even working with Microcontrollers like Arduino.
