@@ -33,5 +33,3 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/matteo-ju
 Let's shape the digital world together! 🌍
 
 - 🍺 Prost
-
-[![Matteos GitHub stats](https://github-readme-stats.vercel.app/api?username=blvckleg)](https://github.com/anuraghazra/github-readme-stats)
