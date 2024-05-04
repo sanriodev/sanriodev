@@ -9,7 +9,7 @@ Although I only use Gitlab at my job you can still sometimes find me contributin
 
 - 🧑‍💻 I'm a tech enthusiast who loves crafting web and mobile applications or even working with Microcontrollers like Arduino.
 - 💼 Currently, I'm engaged in a wide array of technologies, always eager to explore the next challenge.
-- 🌐 My coding journey mostly takes me through the realms of TypeScript, JavaScript, Angular, NestJS, Jest, Kotlin, Flutter, Dart, .NET, and .NET Core.
+- 🌐 My coding journey mostly takes me through the realms of TypeScript, JavaScript, Angular, NestJS, Jest, Kotlin, Flutter/Dart, .NET, and .NET Core.
 - 📊 When it comes to databases, I'm comfortable working with MongoDB, MariaDB, MySQL, Postgres, OracleDB and various NoSQL solutions.
 
 ## My Toolbox 🛠️
