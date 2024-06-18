@@ -1,6 +1,6 @@
 # sanrio bf - Full Stack Developer 🚀
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blvckleg&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanriodev&layout=compact)
 
 Hey there! I'm sanrio bf, a passionate full stack developer hailing from the picturesque landscapes of Austria. 🏞️
 Although I only use Gitlab at my job you can still sometimes find me contributing to open source projects or work on my own stuff here on Github :)
