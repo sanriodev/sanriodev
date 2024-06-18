@@ -29,8 +29,6 @@ Although I only use Gitlab at my job you can still sometimes find me contributin
 
 I am a Junior Full Stack Developer dedicated to contributing my skills and expertise to our team's projects. While my primary focus is on my work at my job, I have a deep passion for open source projects and am always eager to contribute when I find the time to do so. My commitment to continuous learning and growth drives my interest in collaborating with the open source community whenever possible.
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/matteo-juen-6050bb284/) and let's chat about tech, share ideas, or collaborate on exciting projects! 💬
-
 Let's shape the digital world together! 🌍
 
 - 🍺 Prost
