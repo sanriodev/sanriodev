@@ -1,9 +1,7 @@
-# sanrio bf - Full Stack Developer 🚀
+# 🚀
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanriodev&layout=compact)
-
-Hey there! I'm sanrio bf, a passionate full stack developer hailing from the picturesque landscapes of Austria. 🏞️
-Although I only use Gitlab at my job you can still sometimes find me contributing to open source projects or work on my own stuff here on Github :)
+Hey there! I'm a passionate full stack developer hailing from the picturesque landscapes of Austria. 🏞️
+Although I mostly use Gitlab at my job you can still sometimes find me contributing to open source projects or work on my own stuff here on Github :)
 
 ## About Me
 
@@ -25,10 +23,5 @@ Although I only use Gitlab at my job you can still sometimes find me contributin
 - 🦆 I have a rubber duck on my desk with a punk outfit. He helps me debug. His name is Lennart
 - 🌐 I have my own coding playlist on spotify.
 - 📚 I'm an avid reader, always on the lookout for the next great tech book or other media.
-
-
-I am a Junior Full Stack Developer dedicated to contributing my skills and expertise to our team's projects. While my primary focus is on my work at my job, I have a deep passion for open source projects and am always eager to contribute when I find the time to do so. My commitment to continuous learning and growth drives my interest in collaborating with the open source community whenever possible.
-
-Let's shape the digital world together! 🌍
 
 - 🍺 Prost
