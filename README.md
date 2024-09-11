@@ -25,3 +25,5 @@ Although I mostly use Gitlab at my job you can still sometimes find me contribut
 - 📚 I'm an avid reader, always on the lookout for the next great tech book or other media.
 
 - 🍺 Prost
+
+- my <a href="https://raw.githubusercontent.com/sanriodev/sanriodev/main/key.gpg" target="_blank">public OpenPGP key block</a> to send me cool encrypted messages!
