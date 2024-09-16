@@ -13,17 +13,14 @@ Although I mostly use Gitlab at my job you can still sometimes find me contribut
 ## My Toolbox 🛠️
 
 - **Languages**: TypeScript, JavaScript, Kotlin, Java, Dart, C#, C++, go, Rust, Ruby, Python, Mojo
-- **Frontend**: Vue, Angular, Flutter and little bit of Svelte
+- **Frontend**: Vue, Angular, Flutter and little bit of Svelte and React
 - **Backend**: NestJS, .NET, .NET Core
 - **Testing**: Jest, Karma, bun
 - **Databases**: MongoDB, MariaDB, MySQL, OracleDB, Postres, NoSQL
 - **Containerization**: Docker
 
-## Fun Facts 🌟
+## Fun Facts and things 🌟
 - 🦆 I have a rubber duck on my desk with a punk outfit. He helps me debug. His name is Lennart
 - 🌐 I have my own coding playlist on spotify.
 - 📚 I'm an avid reader, always on the lookout for the next great tech book or other media.
-
-- 🍺 Prost
-
 - my <a href="https://raw.githubusercontent.com/sanriodev/sanriodev/main/key.gpg" target="_blank">public OpenPGP key block</a> to send me cool encrypted messages!
