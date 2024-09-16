@@ -1,4 +1,4 @@
-# 🚀
+# README.md 🚀
 
 Hey there! I'm a passionate full stack developer hailing from the picturesque landscapes of Austria. 🏞️
 Although I mostly use Gitlab at my job you can still sometimes find me contributing to open source projects or work on my own stuff here on Github :)
