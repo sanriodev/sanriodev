@@ -28,12 +28,12 @@ Although I mostly use Gitlab at my job you can still sometimes find me contribut
   ### 🗣 Recent Activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, September 19th, 2024, 8:10:19 AM (GMT)
+Last Updated: Thursday, September 19th, 2024, 8:30:33 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [BingusBoingus-Developer-Team/BingusBoingus](https://github.com/BingusBoingus-Developer-Team/BingusBoingus)<br>
-2. 🎉 Merged PR [#124](https://github.com/BingusBoingus-Developer-Team/BingusBoingus/pull/124) in [BingusBoingus-Developer-Team/BingusBoingus](https://github.com/BingusBoingus-Developer-Team/BingusBoingus)<br>
-3. ⬆️ Pushed 2 commit(s) to [sanriodev/energy-householder-angular](https://github.com/sanriodev/energy-householder-angular)<br>
-4. 🎉 Merged PR [#6](https://github.com/sanriodev/energy-householder-angular/pull/6) in [sanriodev/energy-householder-angular](https://github.com/sanriodev/energy-householder-angular)<br>
-5. ⬆️ Pushed 2 commit(s) to [sanriodev/blvckleg.dev](https://github.com/sanriodev/blvckleg.dev)<br>
+1. ⬆️ Pushed 1 commit(s) to [sanriodev/sanriodev](https://github.com/sanriodev/sanriodev)<br>
+2. ⬆️ Pushed 2 commit(s) to [BingusBoingus-Developer-Team/BingusBoingus](https://github.com/BingusBoingus-Developer-Team/BingusBoingus)<br>
+3. 🎉 Merged PR [#124](https://github.com/BingusBoingus-Developer-Team/BingusBoingus/pull/124) in [BingusBoingus-Developer-Team/BingusBoingus](https://github.com/BingusBoingus-Developer-Team/BingusBoingus)<br>
+4. ⬆️ Pushed 2 commit(s) to [sanriodev/energy-householder-angular](https://github.com/sanriodev/energy-householder-angular)<br>
+5. 🎉 Merged PR [#6](https://github.com/sanriodev/energy-householder-angular/pull/6) in [sanriodev/energy-householder-angular](https://github.com/sanriodev/energy-householder-angular)<br>
 <!--RECENT_ACTIVITY:end-->
