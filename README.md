@@ -24,3 +24,12 @@ Although I mostly use Gitlab at my job you can still sometimes find me contribut
 - 🌐 I have my own coding playlist on spotify.
 - 📚 I'm an avid reader, always on the lookout for the next great tech book or other media.
 - my <a href="https://raw.githubusercontent.com/sanriodev/sanriodev/main/key.gpg" target="_blank">public OpenPGP key block</a> to send me cool encrypted messages!
+
+  ### 🗣 Recent Activity
+
+<!--RECENT_ACTIVITY:last_update-->
+Last Updated: Tuesday, June 1st, 2021, 1:08:10 PM (GMT)
+<!--RECENT_ACTIVITY:last_update_end-->
+<!--RECENT_ACTIVITY:start-->
+
+<!--RECENT_ACTIVITY:end-->
