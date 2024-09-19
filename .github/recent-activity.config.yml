@@ -24,3 +24,19 @@ settings:
     changes_requested: "🔴 Requested changes in {ID} in {REPO}"
     new_release: "✌️ Released {ID} in {REPO}"
     new_star: "⭐ Starred {REPO}"
+  whitelisted_events:
+  - comments
+  - create_repo
+  - issues
+  - issues_open
+  - member
+  - pr
+  - pr_merge
+  - push
+  - release
+  - review
+  - star
+  - wiki
+  ignored_repos: ["sanriodev/sanriodev"]
+  
+  
