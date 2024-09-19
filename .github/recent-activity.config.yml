@@ -1,0 +1,6 @@
+settings:
+  username: "sanriodev"
+  commit_msg: "Update README with the recent activity"
+  readme_file: "./README.md"
+  date:
+    text: "Last Updated: {DATE} (GMT)"
