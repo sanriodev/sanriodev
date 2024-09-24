@@ -25,7 +25,10 @@ Although I mostly use Gitlab at my job you can still sometimes find me contribut
 - 📚 I'm an avid reader, always on the lookout for the next great tech book or other media.
 - my <a href="https://raw.githubusercontent.com/sanriodev/sanriodev/main/key.gpg" target="_blank">public OpenPGP key block</a> to send me cool encrypted messages!
 
-  ### 🗣 Recent Activity
+## currently learning
+- 🖥 how to write useful command line interfaces with go and cobra 
+
+## 🗣 Recent Activity
 
 <!--RECENT_ACTIVITY:last_update-->
 Last Updated: Tuesday, September 24th, 2024, 12:03:23 PM
