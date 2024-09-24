@@ -13,8 +13,8 @@ Although I mostly use Gitlab at my job you can still sometimes find me contribut
 ## My Toolbox 🛠️
 
 - **Languages**: TypeScript, JavaScript, Kotlin, Java, Dart, C#, C++, go, Rust, Ruby, Python, Mojo
-- **Frontend**: Vue, Angular, Flutter and little bit of Svelte and React
-- **Backend**: NestJS, .NET, .NET Core
+- **Frontend**: Vue, Angular, Flutter and a little bit of Svelte & React
+- **Backend**: NestJS, .NET, .NET Core, Gin
 - **Testing**: Jest, Karma, bun
 - **Databases**: MongoDB, MariaDB, MySQL, OracleDB, Postres, NoSQL
 - **Containerization**: Docker
