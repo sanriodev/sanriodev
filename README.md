@@ -31,12 +31,12 @@ Although I mostly use Gitlab at my job you can still sometimes find me contribut
 ## 🗣 Recent Activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, September 25th, 2024, 12:03:57 PM
+Last Updated: Wednesday, September 25th, 2024, 6:03:04 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [sanriodev/goji](https://github.com/sanriodev/goji)<br>
 2. ⬆️ Pushed 1 commit(s) to [sanriodev/goji](https://github.com/sanriodev/goji)<br>
 3. ⬆️ Pushed 1 commit(s) to [sanriodev/goji](https://github.com/sanriodev/goji)<br>
 4. ⬆️ Pushed 1 commit(s) to [sanriodev/goji](https://github.com/sanriodev/goji)<br>
-5. ⬆️ Pushed 2 commit(s) to [sanriodev/blvckleg.dev](https://github.com/sanriodev/blvckleg.dev)<br>
+5. ⬆️ Pushed 1 commit(s) to [sanriodev/goji](https://github.com/sanriodev/goji)<br>
 <!--RECENT_ACTIVITY:end-->
