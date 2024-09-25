@@ -31,12 +31,12 @@ Although I mostly use Gitlab at my job you can still sometimes find me contribut
 ## 🗣 Recent Activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, September 24th, 2024, 6:03:05 PM
+Last Updated: Wednesday, September 25th, 2024, 12:10:17 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [sanriodev/blvckleg.dev](https://github.com/sanriodev/blvckleg.dev)<br>
-2. 🎉 Merged PR [#34](https://github.com/sanriodev/blvckleg.dev/pull/34) in [sanriodev/blvckleg.dev](https://github.com/sanriodev/blvckleg.dev)<br>
-3. 💪 Opened PR [#34](https://github.com/sanriodev/blvckleg.dev/pull/34) in [sanriodev/blvckleg.dev](https://github.com/sanriodev/blvckleg.dev)<br>
-4. 💬 Commented on [#33](https://github.com/sanriodev/blvckleg.dev/pull/33#issuecomment-2367773425) in [sanriodev/blvckleg.dev](https://github.com/sanriodev/blvckleg.dev)<br>
-5. ✌️ Released [v1.4.1](https://github.com/sanriodev/blvckleg.dev/releases/tag/v1.4.1) in [sanriodev/blvckleg.dev](https://github.com/sanriodev/blvckleg.dev)<br>
+1. ⬆️ Pushed 1 commit(s) to [sanriodev/goji](https://github.com/sanriodev/goji)<br>
+2. ⬆️ Pushed 1 commit(s) to [sanriodev/goji](https://github.com/sanriodev/goji)<br>
+3. ⬆️ Pushed 1 commit(s) to [sanriodev/goji](https://github.com/sanriodev/goji)<br>
+4. ⬆️ Pushed 1 commit(s) to [sanriodev/goji](https://github.com/sanriodev/goji)<br>
+5. ⬆️ Pushed 2 commit(s) to [sanriodev/blvckleg.dev](https://github.com/sanriodev/blvckleg.dev)<br>
 <!--RECENT_ACTIVITY:end-->
