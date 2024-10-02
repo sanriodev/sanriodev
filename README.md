@@ -10,15 +10,6 @@ Although I mostly use Gitlab at my job you can still sometimes find me contribut
 - 🌐 My coding journey mostly takes me through the realms of TypeScript, JavaScript, Angular, NestJS, Jest, Kotlin, Flutter/Dart, .NET, and .NET Core.
 - 📊 When it comes to databases, I'm comfortable working with MongoDB, MariaDB, MySQL, Postgres, OracleDB and various NoSQL solutions.
 
-## My Toolbox 🛠️
-
-- **Languages**: TypeScript, JavaScript, Kotlin, Java, Dart, C#, C++, go, Rust, Ruby, Python, Mojo
-- **Frontend**: Vue, Angular, Flutter and a little bit of Svelte & React
-- **Backend**: NestJS, .NET, .NET Core, Gin
-- **Testing**: Jest, Karma, bun
-- **Databases**: MongoDB, MariaDB, MySQL, OracleDB, Postres, NoSQL
-- **Containerization**: Docker
-
 ## Fun Facts and things 🌟
 - 🦆 I have a rubber duck on my desk with a punk outfit. He helps me debug. His name is Lennart
 - 🌐 I have my own coding playlist on spotify.
@@ -34,9 +25,4 @@ Although I mostly use Gitlab at my job you can still sometimes find me contribut
 Last Updated: Tuesday, October 1st, 2024, 6:10:37 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#36](https://github.com/sanriodev/blvckleg.dev/pull/36#issuecomment-2382375826) in [sanriodev/blvckleg.dev](https://github.com/sanriodev/blvckleg.dev)<br>
-2. ✌️ Released [v1.5.0](https://github.com/sanriodev/blvckleg.dev/releases/tag/v1.5.0) in [sanriodev/blvckleg.dev](https://github.com/sanriodev/blvckleg.dev)<br>
-3. ⬆️ Pushed 2 commit(s) to [sanriodev/blvckleg.dev](https://github.com/sanriodev/blvckleg.dev)<br>
-4. 🎉 Merged PR [#36](https://github.com/sanriodev/blvckleg.dev/pull/36) in [sanriodev/blvckleg.dev](https://github.com/sanriodev/blvckleg.dev)<br>
-5. 💪 Opened PR [#36](https://github.com/sanriodev/blvckleg.dev/pull/36) in [sanriodev/blvckleg.dev](https://github.com/sanriodev/blvckleg.dev)<br>
 <!--RECENT_ACTIVITY:end-->
