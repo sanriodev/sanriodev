@@ -22,12 +22,12 @@ Although I mostly use Gitlab at my job you can still sometimes find me contribut
 ## 🗣 Recent Activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, October 18th, 2024, 12:10:26 PM
+Last Updated: Saturday, October 19th, 2024, 12:27:05 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [sanriodev/ble_testing](https://github.com/sanriodev/ble_testing)<br>
-2. ⬆️ Pushed 1 commit(s) to [sanriodev/ble_testing](https://github.com/sanriodev/ble_testing)<br>
-3. ⬆️ Pushed 1 commit(s) to [sanriodev/ble_testing](https://github.com/sanriodev/ble_testing)<br>
-4. ⬆️ Pushed 1 commit(s) to [sanriodev/ble_testing](https://github.com/sanriodev/ble_testing)<br>
-5. ⬆️ Pushed 2 commit(s) to [sanriodev/energy-householder-angular](https://github.com/sanriodev/energy-householder-angular)<br>
+1. 💬 Commented on [#38](https://github.com/sanriodev/blvckleg.dev/pull/38#issuecomment-2421705713) in [sanriodev/blvckleg.dev](https://github.com/sanriodev/blvckleg.dev)<br>
+2. ✌️ Released [v1.6.0](https://github.com/sanriodev/blvckleg.dev/releases/tag/v1.6.0) in [sanriodev/blvckleg.dev](https://github.com/sanriodev/blvckleg.dev)<br>
+3. ⬆️ Pushed 2 commit(s) to [sanriodev/blvckleg.dev](https://github.com/sanriodev/blvckleg.dev)<br>
+4. 🎉 Merged PR [#38](https://github.com/sanriodev/blvckleg.dev/pull/38) in [sanriodev/blvckleg.dev](https://github.com/sanriodev/blvckleg.dev)<br>
+5. 💪 Opened PR [#38](https://github.com/sanriodev/blvckleg.dev/pull/38) in [sanriodev/blvckleg.dev](https://github.com/sanriodev/blvckleg.dev)<br>
 <!--RECENT_ACTIVITY:end-->
