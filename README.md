@@ -22,12 +22,12 @@ Although I mostly use Gitlab at my job you can still sometimes find me contribut
 ## 🗣 Recent Activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, October 21st, 2024, 12:28:45 AM
+Last Updated: Monday, October 21st, 2024, 12:11:06 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#38](https://github.com/sanriodev/blvckleg.dev/pull/38#issuecomment-2421705713) in [sanriodev/blvckleg.dev](https://github.com/sanriodev/blvckleg.dev)<br>
-2. ✌️ Released [v1.6.0](https://github.com/sanriodev/blvckleg.dev/releases/tag/v1.6.0) in [sanriodev/blvckleg.dev](https://github.com/sanriodev/blvckleg.dev)<br>
-3. ⬆️ Pushed 2 commit(s) to [sanriodev/blvckleg.dev](https://github.com/sanriodev/blvckleg.dev)<br>
-4. 🎉 Merged PR [#38](https://github.com/sanriodev/blvckleg.dev/pull/38) in [sanriodev/blvckleg.dev](https://github.com/sanriodev/blvckleg.dev)<br>
-5. 💪 Opened PR [#38](https://github.com/sanriodev/blvckleg.dev/pull/38) in [sanriodev/blvckleg.dev](https://github.com/sanriodev/blvckleg.dev)<br>
+1. ⬆️ Pushed 2 commit(s) to [BingusBoingus-Developer-Team/BingusBoingus](https://github.com/BingusBoingus-Developer-Team/BingusBoingus)<br>
+2. 🎉 Merged PR [#125](https://github.com/BingusBoingus-Developer-Team/BingusBoingus/pull/125) in [BingusBoingus-Developer-Team/BingusBoingus](https://github.com/BingusBoingus-Developer-Team/BingusBoingus)<br>
+3. 💬 Commented on [#38](https://github.com/sanriodev/blvckleg.dev/pull/38#issuecomment-2421705713) in [sanriodev/blvckleg.dev](https://github.com/sanriodev/blvckleg.dev)<br>
+4. ✌️ Released [v1.6.0](https://github.com/sanriodev/blvckleg.dev/releases/tag/v1.6.0) in [sanriodev/blvckleg.dev](https://github.com/sanriodev/blvckleg.dev)<br>
+5. ⬆️ Pushed 2 commit(s) to [sanriodev/blvckleg.dev](https://github.com/sanriodev/blvckleg.dev)<br>
 <!--RECENT_ACTIVITY:end-->
