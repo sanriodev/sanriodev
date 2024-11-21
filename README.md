@@ -1,8 +1,3 @@
-# README.md 🚀
-
-Hey there! I'm a passionate full stack developer hailing from the picturesque landscapes of Austria. 🏞️
-Although I mostly use Gitlab at my job you can still sometimes find me contributing to open source projects or work on my own stuff here on Github :)
-
 ## About Me
 
 - 🧑‍💻 I'm a tech enthusiast who loves crafting web and mobile applications or even working with Microcontrollers like Arduino.
@@ -19,15 +14,8 @@ Although I mostly use Gitlab at my job you can still sometimes find me contribut
 ## currently learning
 - 🖥 being rusty 🦀
 
-## 🗣 Recent Activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, November 17th, 2024, 7:46:26 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [sanriodev/energy-householder-angular](https://github.com/sanriodev/energy-householder-angular)<br>
-2. ❗️ Opened issue [#9](https://github.com/sanriodev/energy-householder-angular/issues/9) in [sanriodev/energy-householder-angular](https://github.com/sanriodev/energy-householder-angular)<br>
-3. ⭐ Starred [fluttercommunity/flutter_downloader](https://github.com/fluttercommunity/flutter_downloader)<br>
-4. 💬 Commented on [#43](https://github.com/sanriodev/blvckleg.dev/pull/43#issuecomment-2460589439) in [sanriodev/blvckleg.dev](https://github.com/sanriodev/blvckleg.dev)<br>
-5. ✌️ Released [v1.8.0](https://github.com/sanriodev/blvckleg.dev/releases/tag/v1.8.0) in [sanriodev/blvckleg.dev](https://github.com/sanriodev/blvckleg.dev)<br>
 <!--RECENT_ACTIVITY:end-->
