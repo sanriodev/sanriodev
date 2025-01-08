@@ -25,7 +25,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matteo-juen-6050bb284/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/blvckleg)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matteo.juen@ematric.com)
 
 
 My <a href="https://raw.githubusercontent.com/sanriodev/sanriodev/main/key.gpg" target="_blank">public OpenPGP key block</a> to send me cool encrypted messages!
