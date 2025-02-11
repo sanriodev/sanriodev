@@ -14,7 +14,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## 📈 GitHub Stats
-
+<!---![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanriodev&layout=compact&theme=radical)---> 
 ![Sanriodev's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanriodev&show_icons=true&theme=radical)
 
 ## 🌟 Top Languages
