@@ -1,11 +1,9 @@
-
-## 🌟
 Hey 👋
 
 I use Gitlab at work but you can still fond some random stuff here. 🧙
 
 <!--- ## 🛠️ Technologies & Tools --->
-## 🛠️
+<!---## 🛠️
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanriodev&layout=compact&theme=radical)
 
 
@@ -21,7 +19,7 @@ I use Gitlab at work but you can still fond some random stuff here. 🧙
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
+--->
 <!---## 📈 GitHub Stats
 ![Sanriodev's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanriodev&show_icons=true&theme=radical)--->
 <!---![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanriodev&layout=compact&theme=radical)---> 
