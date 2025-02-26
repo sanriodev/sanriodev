@@ -1,6 +1,6 @@
 Hey 👋
 
-I use Gitlab at work but you can still fond some random stuff here. 🧙
+I use Gitlab at work but you can still find some random stuff here. 🧙
 
 <!--- ## 🛠️ Technologies & Tools --->
 <!---## 🛠️
