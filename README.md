@@ -2,6 +2,15 @@ Hey 👋
 
 I use Gitlab at work but you can still find some random stuff here. 🧙
 
+## 🛠️
+- [Invite](https://discord.com/oauth2/authorize?client_id=1148302315674144778) **BingusBoingus** to your discord server
+- Install **goji-CLI**
+  - ```zsh
+    brew install sanriodev/homebrew-goji
+    or
+    go install github.com/sanriodev/goji@latest
+    ```
+- [Join](https://testflight.apple.com/join/kz131jGp) Alina's App Beta and report Feedback
 <!--- ## 🛠️ Technologies & Tools --->
 <!---## 🛠️
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanriodev&layout=compact&theme=radical)
