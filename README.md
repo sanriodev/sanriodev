@@ -5,14 +5,14 @@ I use Gitlab at work but you can still find some random stuff here. 🧙
 <details>
   <summary>🛠️ check this out!</summary>
 
-  - [Invite](https://discord.com/oauth2/authorize?client_id=1148302315674144778) **BingusBoingus** to your discord server
-  - Install **goji-CLI**
+  - Send **[BingusBoingus](https://github.com/BingusBoingus-Developer-Team/BingusBoingus)** an [Invitation](https://discord.com/oauth2/authorize?client_id=1148302315674144778) to your discord server
+  - Install **[goji-CLI](https://github.com/sanriodev/goji)**
     - ```zsh
       brew install sanriodev/homebrew-goji
       or
       go install github.com/sanriodev/goji@latest
       ```
-  - [Join](https://testflight.apple.com/join/kz131jGp) Alina's App Beta and report Feedback
+  - Join [**Alina's App**](https://github.com/sanriodev/aandm) Beta and report Feedback on [Testflight](https://testflight.apple.com/join/kz131jGp)
 
 </details>
 
