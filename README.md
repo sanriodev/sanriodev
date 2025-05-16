@@ -8,7 +8,7 @@ I use Gitlab at work but you can still find some random stuff here. 🧙
   - Send **[BingusBoingus](https://github.com/BingusBoingus-Developer-Team/BingusBoingus)** an [Invitation](https://discord.com/oauth2/authorize?client_id=1148302315674144778) to your discord server
   - Install **[goji-CLI](https://github.com/sanriodev/goji)**
     - ```zsh
-      brew install sanriodev/homebrew-goji
+      brew tap sanriodev/homebrew-goji && brew install goji
       or
       go install github.com/sanriodev/goji@latest
       ```
