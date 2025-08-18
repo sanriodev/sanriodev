@@ -1,6 +1,6 @@
 Hey 👋
 
-I use Gitlab at work but you can still find some random stuff here. 🧙
+I use Gitlab at work, and my own Gitlab instance for my own projects, but you can still find some random stuff and some mirrors here. 🧙
 
 <details>
   <summary>🛠️ check this out!</summary>
