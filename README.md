@@ -5,6 +5,7 @@ I use Gitlab at work, and my own Gitlab instance for my own projects, but you ca
 <details>
   <summary>🛠️ check this out!</summary>
 
+  - check out **[TickTrack - die WG App](https://tick-track.app)** for an amazing way to share lists, notes and calendars with your roommates.
   - Send **[BingusBoingus](https://github.com/BingusBoingus-Developer-Team/BingusBoingus)** an [Invitation](https://discord.com/oauth2/authorize?client_id=1148302315674144778) to your discord server
   - Install **[goji-CLI](https://github.com/sanriodev/goji)**
     - ```zsh
@@ -12,7 +13,6 @@ I use Gitlab at work, and my own Gitlab instance for my own projects, but you ca
       or
       go install github.com/sanriodev/goji@latest
       ```
-  - Join [**Alina's App**](https://github.com/sanriodev/aandm) Beta and report Feedback on [Testflight](https://testflight.apple.com/join/kz131jGp)
 
 </details>
 
